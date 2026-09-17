@@ -1,6 +1,6 @@
 # EX-5 : AWS-LOAD-BALANCER
-## Name : Visveswarran Harikrishnan
-## Register Number : 212224110063
+## Name : DEEPIKA R
+## Register Number : 212224100009
 ## Aim
 
 To create a scalable and highly available web application architecture using **Amazon Elastic Load Balancing (ELB)**, **Amazon EC2 Auto Scaling**, and **Amazon CloudWatch**, and to verify automatic load balancing and scaling based on CPU utilisation.
